@@ -13,13 +13,13 @@
 
 ## 목차
 - [팀명 : 빨간약](#팀명--빨간약)
-- [프로젝트 이름 : 몽글몽글 - Spring Boot Project](#프로젝트-이름--몽글몽글---spring-boot-project)
+- [프로젝트 이름 : 몽글몽글 - Spring Boot Project](#프로젝트-이름--몽글몽글--springboot-project-)
   - [📚프로젝트 주제](#프로젝트-주제)
   - [목차](#목차)
   - [팀 구성](#팀-구성)
   - [ERD구성](#erd구성)
   - [Tools](#tools)
-  - [담당 작업](#나의-작업)
+  - [담당 작업](#담당-작업)
     - [메인페이지 WIKI로 이동](#메인페이지--wiki로-이동)
     - [상담사등록 WIKI로 이동](#상담사-등록-wiki로-이동)
     - [상담사 프로필(목록) WIKI로 이동](#상담사-프로필목록-wiki로-이동)
@@ -72,15 +72,11 @@
 <img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/88e6f01e-e3aa-4c21-bcc9-d6220f75e911" width="500">
 </a>
 
-### 상담사 프로필(목록)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> WIKI로 이동</a>
-- 리스트에 보여줄 내용 가져오기
-- 페이징 처리 (비동기)
-- 게시글 쓰기, 수정, 삭제
-- 이미지 파일 첨부하기
+### 상담사 프로필(목록)<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%ED%94%84%EB%A1%9C%ED%95%84(%EB%AA%A9%EB%A1%9D%EB%B3%B4%EA%B8%B0)#%EA%B8%B0%EB%8A%A5%EC%86%8C%EA%B0%9C"> WIKI로 이동</a>
+- 비용을 기준으로 찾아와 보여준다.
 
-<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> 
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/02aabf5b-6507-41eb-9104-69c42939830f?type=w580" width="500">
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/0cce62a4-ce6d-4c0c-a498-3aa759ab13c3?type=w580" width="500">
+<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%ED%94%84%EB%A1%9C%ED%95%84(%EB%AA%A9%EB%A1%9D%EB%B3%B4%EA%B8%B0)#%EA%B8%B0%EB%8A%A5%EC%86%8C%EA%B0%9C"> 
+ <img src="https://github.com/2teamSpring/RedMedicine/assets/141835418/8da2cb24-0160-4239-b2b9-2022da9132ad?type=w580" width="500">
 </a>
 
 ### 상담사 프로필(상세보기)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> WIKI로 이동</a>
