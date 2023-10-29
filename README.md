@@ -62,10 +62,14 @@
 </a>
 
 ### 상담사 등록<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%EB%93%B1%EB%A1%9D"> WIKI로 이동</a>
-- 아이디와 비밀번호를 입력받아서 회원 번호를 비교 후 로그인
+- 상담사는 유료상담사, 무료상담사로 구분
+- 상담사 회원은 결제를 완료하면 유료 상담사로 활동이 가능
+- 유료 상담사는 등록 페이지에서 비용을 입력 가능한 칸이 나타남
+- 상담사의 프로필 이미지를 첨부파일로 등록이 가능
 
 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%EB%93%B1%EB%A1%9D"> 
 <img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af?type=w580" width="500">
+<img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/88e6f01e-e3aa-4c21-bcc9-d6220f75e911" width="500">
 </a>
 
 ### 상담사 프로필(목록)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> WIKI로 이동</a>
