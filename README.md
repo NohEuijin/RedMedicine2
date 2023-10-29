@@ -20,7 +20,7 @@
   - [ERD구성](#erd구성)
   - [Tools](#tools)
   - [나의 작업](#나의-작업)
-    - [회원 가입 기능 기능소개 WIKI로 이동](#회원-가입-기능-기능소개-wiki로-이동)
+    - [메인페이지 WIKI로 이동](#메인페이지-소개-wiki로-이동)
     - [로그인 기능 기능소개 WIKI로 이동](#로그인-기능-기능소개-wiki로-이동)
     - [회원 정보 수정 기능소개 WIKI로 이동](#회원-정보-수정-기능소개-wiki로-이동)
     - [상담 게시판 기능소개 WIKI로 이동](#상담-게시판-기능소개-wiki로-이동)
@@ -37,7 +37,7 @@
 ## ERD구성
 
 <details open>
-<summary>ERD이미지</summary>
+<summary>ERD</summary>
   
   <a href='https://ifh.cc/v-H9Fj40' target='_blank'><img src='https://ifh.cc/g/H9Fj40.jpg' border='0'></a>
   
@@ -46,15 +46,14 @@
  ## Tools
 - **Java**
 - **Spring Boot**
-- **Intellij**
-- **Mybatis**
+### DB
 - **Oracle**
 
 ## 나의 작업
 
-### 회원 가입 기능 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> 기능소개 WIKI로 이동</a>
-- 회원 가입 시 필요한 정보 입력할 수 있도록
-- 아이디 유효성 검사(비동기)
+### 메인페이지 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> WIKI로 이동</a>
+- 로그인시 세션 유지
+- 
 - 휴대전화 문자 인증
 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> 
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/558a6f13-68af-4237-99f7-35710c704e24?type=w580" width="500">
