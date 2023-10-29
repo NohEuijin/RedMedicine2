@@ -65,7 +65,7 @@
 - 아이디와 비밀번호를 입력받아서 회원 번호를 비교 후 로그인
 
 <a href="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af"> 
-<img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af?type=w580" width="700">
+<img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af?type=w580" width="500">
 </a>
 
 ### 상담사 프로필(목록)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> WIKI로 이동</a>
