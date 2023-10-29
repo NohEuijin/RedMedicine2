@@ -21,9 +21,9 @@
   - [Tools](#tools)
   - [나의 작업](#나의-작업)
     - [메인페이지 WIKI로 이동](#메인페이지--wiki로-이동)
-    - [로그인 기능 기능소개 WIKI로 이동](#로그인-기능-기능소개-wiki로-이동)
-    - [회원 정보 수정 기능소개 WIKI로 이동](#회원-정보-수정-기능소개-wiki로-이동)
-    - [상담 게시판 기능소개 WIKI로 이동](#상담사-프로필(무료,-유료)-wiki로-이동)
+    - [상담사등록 WIKI로 이동](#상담사-등록-wiki로-이동)
+    - [회원 정보 수정 기능소개 WIKI로 이동](#상담사-프로필목록-wiki로-이동)
+    - [상담 게시판 기능소개 WIKI로 이동](#상담예약-회원관리-wiki로-이동)
     - [상담 게시판 댓글 기능소개 WIKI로 이동](#상담-게시판-댓글-기능소개-wiki로-이동)
 
 ## 팀 구성
@@ -87,6 +87,15 @@
 </a>
 
 ### 상담예약 회원관리<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%8C%93%EA%B8%80"> WIKI로 이동</a>
+- 댓글 리스트 띄우기 및 페이징 처리 (비동기)
+- 댓글 날짜(1분 전, 1시간 전, 1일 전 형식으로 띄우기)
+- 댓글 수정, 삭제
+
+<a href="https://github.com/gimdaeyeon/happy_pets_day/wiki/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EB%85%B8%EC%B6%9C"> 
+ <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/5e4ce5c3-d455-4ebc-a67d-7cf4b76e90ee?type=w580" width="500">
+</a>
+
+### 제휴등록<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%8C%93%EA%B8%80"> WIKI로 이동</a>
 - 댓글 리스트 띄우기 및 페이징 처리 (비동기)
 - 댓글 날짜(1분 전, 1시간 전, 1일 전 형식으로 띄우기)
 - 댓글 수정, 삭제
