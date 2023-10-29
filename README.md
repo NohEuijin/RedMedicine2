@@ -64,16 +64,8 @@
 ### 상담사 등록<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%EB%93%B1%EB%A1%9D"> WIKI로 이동</a>
 - 아이디와 비밀번호를 입력받아서 회원 번호를 비교 후 로그인
 
-<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/24b51066-dc05-48d0-bca6-8315210b2aea?type=w580" width="500">
-</a>
-
-### 상담사 프로필(상세보기)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> WIKI로 이동</a>
-- 회원 정보 수정 전 비밀번호 재입력 후 검증
-- 회원 정보 수정 페이지에서는 기존 회원의 정보를 가져올 수 있도록
-
-<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> 
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/4654d255-62c5-452f-ada9-d2f8643eb93d?type=w580" width="500">
+<a href="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af"> 
+<img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/bca6b628-fc70-43a7-8805-6a2ff7e3d9af?type=w580" width="700">
 </a>
 
 ### 상담사 프로필(목록)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> WIKI로 이동</a>
@@ -85,6 +77,14 @@
 <a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> 
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/02aabf5b-6507-41eb-9104-69c42939830f?type=w580" width="500">
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/0cce62a4-ce6d-4c0c-a498-3aa759ab13c3?type=w580" width="500">
+</a>
+
+### 상담사 프로필(상세보기)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> WIKI로 이동</a>
+- 회원 정보 수정 전 비밀번호 재입력 후 검증
+- 회원 정보 수정 페이지에서는 기존 회원의 정보를 가져올 수 있도록
+
+<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> 
+ <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/4654d255-62c5-452f-ada9-d2f8643eb93d?type=w580" width="500">
 </a>
 
 ### 상담예약 회원관리<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%8C%93%EA%B8%80"> WIKI로 이동</a>
