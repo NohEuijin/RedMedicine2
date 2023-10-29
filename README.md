@@ -60,7 +60,7 @@
  <img src="https://github.com/2teamSpring/RedMedicine/assets/141835418/59c8569b-cd25-48fa-aa52-ad59d1f155aa?type=w580" width="500">
 </a>
 
-### 상담사 등록<a href="https://github.com/NohEuijin/RedMedicine2.wiki.git"> WIKI로 이동</a>
+### 상담사 등록<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%EB%93%B1%EB%A1%9D"> WIKI로 이동</a>
 - 아이디와 비밀번호를 입력받아서 회원 번호를 비교 후 로그인
 
 <a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 
