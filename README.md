@@ -53,10 +53,11 @@
 
 ### 메인페이지 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> WIKI로 이동</a>
 - 로그인시 세션 유지
-- 
-- 휴대전화 문자 인증
+- 세션에 따른 헤더 메뉴 등 매핑 다름
+- 세션의 레벨에 따라 000 님 , 000 상담사 님 , 000 관리자 님 으로 구분
+- 세션의 레벨에 따라 드롭다운 목록이 변경
 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> 
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/558a6f13-68af-4237-99f7-35710c704e24?type=w580" width="500">
+ <img src="https://github.com/2teamSpring/RedMedicine/assets/141835418/59c8569b-cd25-48fa-aa52-ad59d1f155aa?type=w580" width="500">
 </a>
 
 ### 상담사 등록(무료, 유료)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> WIKI로 이동</a>
