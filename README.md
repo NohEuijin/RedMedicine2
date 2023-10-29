@@ -19,7 +19,7 @@
   - [팀 구성](#팀-구성)
   - [ERD구성](#erd구성)
   - [Tools](#tools)
-  - [나의 작업](#나의-작업)
+  - [담당 작업](#나의-작업)
     - [메인페이지 WIKI로 이동](#메인페이지--wiki로-이동)
     - [상담사등록 WIKI로 이동](#상담사-등록-wiki로-이동)
     - [상담사 프로필(목록) WIKI로 이동](#상담사-프로필목록-wiki로-이동)
@@ -50,7 +50,7 @@
 ### DB
 - **Oracle**
 
-## 나의 작업
+## 담당 작업
 
 ### 메인페이지 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> WIKI로 이동</a>
 - 로그인시 세션 유지
