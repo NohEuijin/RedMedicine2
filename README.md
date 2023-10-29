@@ -79,12 +79,15 @@
  <img src="https://github.com/2teamSpring/RedMedicine/assets/141835418/8da2cb24-0160-4239-b2b9-2022da9132ad?type=w580" width="500">
 </a>
 
-### 상담사 프로필(상세보기)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> WIKI로 이동</a>
-- 회원 정보 수정 전 비밀번호 재입력 후 검증
-- 회원 정보 수정 페이지에서는 기존 회원의 정보를 가져올 수 있도록
+### 상담사 프로필(상세보기)<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%ED%94%84%EB%A1%9C%ED%95%84(%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)"> WIKI로 이동</a>
+- 상담사 목록에서 상담사 프로필 클릭시 상세보기로 이동한다.
+- 로그인한 본인의 상담사 상세보기 페이지라면 삭제가 가능하다.
+- 예약 버튼 클릭 시 예약 페이지로 이동한다.
+- 상담 후 댓글이 가능하다.
 
-<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> 
- <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/4654d255-62c5-452f-ada9-d2f8643eb93d?type=w580" width="500">
+<a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EC%83%81%EB%8B%B4%EC%82%AC%ED%94%84%EB%A1%9C%ED%95%84(%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)"> 
+ <img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/e34eeebf-bb32-4e68-a7aa-4497a9a10189?type=w580" width="500">
+  <img src="https://github.com/NohEuijin/RedMedicine2/assets/141835418/6e8bd8bb-5efd-4eef-aacb-d7b98382b577?type=w580" width="500">
 </a>
 
 ### 상담예약 회원관리<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EB%8C%93%EA%B8%80"> WIKI로 이동</a>
