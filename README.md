@@ -1,6 +1,6 @@
-# 팀명 : 빨간약
+# 팀명 : 빨간약 ( RedMedicine )
 
-# 프로젝트 이름 : 몽글몽글 - Spring Boot Project
+# 프로젝트 이름 : 몽글몽글 ( SpringBoot Project )
 
 ## 📚프로젝트 주제 
 
