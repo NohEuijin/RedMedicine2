@@ -20,10 +20,10 @@
   - [ERD구성](#erd구성)
   - [Tools](#tools)
   - [나의 작업](#나의-작업)
-    - [메인페이지 WIKI로 이동](#메인페이지-소개-wiki로-이동)
+    - [메인페이지 WIKI로 이동](#메인페이지-WIKI로-이동)
     - [로그인 기능 기능소개 WIKI로 이동](#로그인-기능-기능소개-wiki로-이동)
     - [회원 정보 수정 기능소개 WIKI로 이동](#회원-정보-수정-기능소개-wiki로-이동)
-    - [상담 게시판 기능소개 WIKI로 이동](#상담-게시판-기능소개-wiki로-이동)
+    - [상담 게시판 기능소개 WIKI로 이동](#상담사-프로필(무료,-유료)-wiki로-이동)
     - [상담 게시판 댓글 기능소개 WIKI로 이동](#상담-게시판-댓글-기능소개-wiki로-이동)
 
 ## 팀 구성
@@ -59,14 +59,14 @@
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/558a6f13-68af-4237-99f7-35710c704e24?type=w580" width="500">
 </a>
 
-### 로그인 기능<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 기능소개 WIKI로 이동</a>
+### 상담사 등록(무료, 유료)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 기능소개 WIKI로 이동</a>
 - 아이디와 비밀번호를 입력받아서 회원 번호를 비교 후 로그인
 
 <a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/24b51066-dc05-48d0-bca6-8315210b2aea?type=w580" width="500">
 </a>
 
-### 회원 정보 수정<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> 기능소개 WIKI로 이동</a>
+### 상담사 프로필 상세보기 (유료, 무료)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95"> 기능소개 WIKI로 이동</a>
 - 회원 정보 수정 전 비밀번호 재입력 후 검증
 - 회원 정보 수정 페이지에서는 기존 회원의 정보를 가져올 수 있도록
 
@@ -74,7 +74,7 @@
  <img src="https://github.com/donghyun3193/SpringRedMedicine/assets/131939490/4654d255-62c5-452f-ada9-d2f8643eb93d?type=w580" width="500">
 </a>
 
-### 상담 게시판<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> 기능소개 WIKI로 이동</a>
+### 상담사 프로필(무료, 유료)<a href="https://github.com/donghyun3193/SpringRedMedicine/wiki/%EC%83%81%EB%8B%B4-%EA%B2%8C%EC%8B%9C%ED%8C%90"> 기능소개 WIKI로 이동</a>
 - 리스트에 보여줄 내용 가져오기
 - 페이징 처리 (비동기)
 - 게시글 쓰기, 수정, 삭제
