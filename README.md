@@ -23,7 +23,7 @@
     - [상담 예약 회원 관리 WIKI로 이동](#상담예약-회원관리-wiki로-이동)
     - [제휴등록 WIKI로 이동](#제휴등록-wiki로-이동)
 
-## 팀 구성
+## 🔗팀 구성
 
 |팀장|노의진|           
 |:--:|:--:|
@@ -31,7 +31,7 @@
 |팀원|이동현| 
 |팀원|유대훈| 
 
-## ERD구성
+## 💡ERD구성
 
 <details open>
 <summary>ERD</summary>
@@ -40,13 +40,13 @@
   
 </details>
 
- ## Tools
+ ## 🗡Tools
 - **Java**
 - **Spring Boot**
 ### DB
 - **Oracle**
 
-## 담당 작업
+## 🏷담당 작업
 
 ### 메인페이지 <a href="https://github.com/NohEuijin/RedMedicine2/wiki/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80"> WIKI로 이동</a>
 - 로그인시 세션 유지
