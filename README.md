@@ -1,6 +1,6 @@
-# 팀명 : 빨간약 ( RedMedicine )
+# 팀명 : 빨간약💊 ( RedMedicine )
 
-# 프로젝트 이름 : 몽글몽글 ( SpringBoot Project )
+# 프로젝트 이름 : 몽글몽글🫧 ( SpringBoot Project )
 
 ## 📚프로젝트 주제 
 
@@ -11,7 +11,7 @@
 4. 우리나라에 있는 상담소에 대한 정보
 5. 마음에 안정을 줄 수 있는 음악감상
 
-## 목차
+## 📖목차
   - [팀 구성](#팀-구성)
   - [ERD구성](#erd구성)
   - [Tools](#tools)
