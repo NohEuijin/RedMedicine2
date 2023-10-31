@@ -40,7 +40,7 @@
   
 </details>
 
- ## 🗡Tools
+ ## 🗡Skill
 - **Java**
 - **Spring Boot**
 ### DB
