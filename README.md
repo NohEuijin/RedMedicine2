@@ -38,8 +38,8 @@
 <details open>
 <summary>ERD</summary>
   
-  <a href='https://ifh.cc/v-H9Fj40' target='_blank'><img src='https://ifh.cc/g/H9Fj40.jpg' border='0'></a>
-  
+  <a href='https://ifh.cc/v-H9Fj40' target='_blank'><img src='https://github.com/NohEuijin/RedMedicine2/assets/141835418/8ae36e93-5feb-4961-8c39-c3eb1c06b4b0' border='0'></a>
+
 </details>
 
  ## 🗡Skill
